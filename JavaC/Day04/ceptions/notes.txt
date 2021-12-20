@@ -1,0 +1,34 @@
+- Dealing with errors
+	how it gets back to us as an exceptions, that are object of certain
+	classes and we have to handle them, and their types is as follow...
+- Throwable & Exception hierarchy (264,274)
+	use the snippet and talk about it's types, like Error and Exceptions
+	types of Exceptions too.
+- (try and catch) block (j1.java) (j2.java)
+	if error occurs it get wrapped and send to the catch block!
+		// in case of using try only, compile prompts
+		// error: 'try' without 'catch', 'finally' or resource declarations
+- unhandled exceptions impact (jx.java)
+- How to throw an Exception?
+	- find appropiate Exception
+	- make object out of it
+	- throw it
+	
+	throw new Exception();
+
+	Exception e = new Exception();
+	throw e;
+- finally
+	additional block to activate after every try (either catch triggered or not)
+- try(with resources)
+	- What is a resource?
+	try ( Resource <name> = new Resource() )
+- Making your own Exceptions classes & methods that can have Exceptions (example.java) (fibonacci.java)
+	
+
+
+- Tips & Tricks
+	- super()		in the child constructor, calls the parent constructor
+	- if a method, which throws exception got overriden, you either leave it as it's
+	, add the same Exception, or one of its children, but never use different category of Exceptions
+	- rethrow
