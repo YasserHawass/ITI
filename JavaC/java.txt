@@ -26,3 +26,8 @@ and remember that functions are virtual by default, so if you had a parent objec
 initalized as a child class, it will run the child member versions!
 
 so watch out for different declaration and initalizations and such!
+
+
+https://stackoverflow.com/questions/6810691/instantiating-a-list-in-java/6810696
+
+https://stackoverflow.com/questions/37979705/how-to-create-a-map-of-character-and-dynamic-arraylist-in-java
