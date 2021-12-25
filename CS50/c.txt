@@ -1,0 +1,71 @@
+﻿c ref
+-------+
+https://en.cppreference.com/w/c/language
+
+c++ ref
+--------+
+https://www.ibm.com/docs/en/zos/2.3.0?topic=expressions-scope-resolution-operator-c-only
+https://www.cplusplus.com/reference/cmath/fabs/
+https://www.tutorialspoint.com/cplusplus/index.htm
+c and c++ complete reference pink book
+
+links
+-------+
+https://www.codechef.com/
+
+
+c links
+========
+https://stackoverflow.com/questions/30065675/what-does-scanf-nc-mean
+https://stackoverflow.com/questions/4083239/proper-way-to-initialize-a-string-in-c
+
+https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc
+
+https://stackoverflow.com/questions/63494386/dynamically-allocate-an-array-of-strings
+
+clean code uncle bob
+let us C
+وليد يوسف على يوتيوب
+
+- precdence 
+https://i.stack.imgur.com/XgKf8.png
+- no return in a function behavior
+https://docs.microsoft.com/en-us/cpp/c-language/return-statement-c?view=msvc-170#:~:text=If%20no%20return%20statement%20appears,the%20called%20function%20is%20undefined.
+- unintialized pointers runtime Errors
+https://stackoverflow.com/questions/5870038/uninitialized-pointers-in-code
+
+
+- bracket balance
+https://stackoverflow.com/questions/16874176/parenthesis-brackets-matching-using-stack-algorithm
+- segmentation fault with strings
+https://stackoverflow.com/questions/164194/why-do-i-get-a-segmentation-fault-when-writing-to-a-char-s-initialized-with-a
+
+https://web.mst.edu/~nmjxv3/articles/templates.html
+https://www.ibm.com/docs/en/zos/2.1.0?topic=templates-friends
+
+c++ links
+==========
+https://medium.com/breaktheloop/why-using-namespace-std-is-used-after-including-iostream-dc5ae45db652
+
+-passing object into a function -
+	implementing a copy-constructor and a copy-assignment operator
+	object by reference in C++ is void someFunction(dataType& name) or void someFunction(const dataType& name).
+	 	In C++, the word reference has a specific meaning.
+
+https://stackoverflow.com/questions/21484499/passing-an-object-to-a-function-scope-and-destructors
+https://stackoverflow.com/questions/18147038/passing-object-by-reference-in-c
+https://stackoverflow.com/questions/28004561/why-is-the-destructor-called-when-the-object-is-passed-by-reference
+https://stackoverflow.com/questions/53007375/passing-by-reference-why-is-this-destructor-being-called
+https://stackoverflow.com/questions/7762988/side-effects-when-passing-objects-to-function-in-c
+https://lessons2all.com/ref_var.php
+
+https://www.tutorialspoint.com/cplusplus/index.htm
+https://www.learncpp.com/cpp-tutorial/virtual-destructors-virtual-assignment-and-overriding-virtualization/
+
+
+https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition
+https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep#Inheritance
+https://www.coursera.org/projects/cpp-inheritance-aggregation-composition
+
+
+https://stackoverflow.com/questions/20181902/dynamic-binding-of-private-methods-java-vs-c
