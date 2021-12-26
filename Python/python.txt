@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/34252018/what-does-d-mean-strings-python-3-4-3
+https://docs.python.org/3/library/string.html#formatstrings
+https://docs.python.org/3/library/string.html#format-specification-mini-language
