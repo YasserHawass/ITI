@@ -27,8 +27,12 @@ else:
 
 # there's also a bonus assignment
 # how to count 'ehm' in a string if it's not in a word
-# sentence = "ehm I am a sentence notehm with ehm in it ehm"
+sentence = "ehm I am a sentence notehm with ehm in it ehm"
 # s_count = sentence.startswith('ehm ')if 1 else 0
 # e_count = sentence.endswith(' ehm')if 1 else 0
 # count = sentence.count(' ehm ')
 # print( count + s_count + e_count)
+
+# or actually a clever idea done by zahra hisham, she added space to the start and end of the string
+# and then counted.
+print((" "+sentence+" ").count(' ehm ') )
