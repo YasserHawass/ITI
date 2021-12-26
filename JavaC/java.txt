@@ -31,3 +31,17 @@ so watch out for different declaration and initalizations and such!
 https://stackoverflow.com/questions/6810691/instantiating-a-list-in-java/6810696
 
 https://stackoverflow.com/questions/37979705/how-to-create-a-map-of-character-and-dynamic-arraylist-in-java
+
+
+https://www.journaldev.com/32457/java-stream-collect-method-examples
+
+https://stackoverflow.com/questions/23620360/how-to-map-to-multiple-elements-with-java-8-streams
+
+https://stackoverflow.com/questions/52436120/cannot-find-symbol-error-when-attempting-to-use-stream-on-array-in-java
+https://www.geeksforgeeks.org/abstractmap-simpleentry-getkey-method-in-java-with-examples/
+https://www.geeksforgeeks.org/hashmap-entryset-method-in-java/
+https://www.journaldev.com/32457/java-stream-collect-method-examples
+https://www.geeksforgeeks.org/hashmap-entryset-method-in-java/
+
+https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html#Ordering
+https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html#groupingByConcurrent-java.util.function.Function-java.util.stream.Collector-
