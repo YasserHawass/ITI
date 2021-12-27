@@ -1,3 +1,10 @@
 https://stackoverflow.com/questions/34252018/what-does-d-mean-strings-python-3-4-3
 https://docs.python.org/3/library/string.html#formatstrings
 https://docs.python.org/3/library/string.html#format-specification-mini-language
+
+# breaking out of parent loop
+https://note.nkmk.me/en/python-break-nested-loops/
+
+
+
+https://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit#:~:text=The%20XOR%20operator%20(%20%5E%20)%20can,n%20th%20bit%20of%20number%20.
