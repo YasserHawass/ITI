@@ -45,3 +45,6 @@ https://www.geeksforgeeks.org/hashmap-entryset-method-in-java/
 
 https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html#Ordering
 https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html#groupingByConcurrent-java.util.function.Function-java.util.stream.Collector-
+
+
+https://stackoverflow.com/questions/2430756/why-are-interface-variables-static-and-final-by-default
