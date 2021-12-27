@@ -13,9 +13,9 @@ def SET_BIT(value, bit):
 # remeber if you wanna print binary to use :b, and a modifier to print rest of length
 # in case 1001 and toggled last 1, into 0001 instead of only 1
 number = int(input("Write your number: "))
-#print(f"{SET_BIT(number, 2)}")
+print(f"{SET_BIT(number, 2)}")
 # if wanted to print binary while specifiying the desired length
-#print(f"{SET_BIT(number, 2):5b}")
+#print(f"{SET_BIT(number, 1):5b}")
 
 def CLR_BIT(value, bit):
     return value & ~(1 << bit)
