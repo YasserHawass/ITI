@@ -95,3 +95,5 @@ nested_list = [[i*i/j for i in range(1,11)] for j in range(1,11)]
 print(nested_list)
 for i in nested_list:
     print(i)
+
+
