@@ -1,7 +1,7 @@
 '''
 /*******************************************************************************
-/*  AUTHORS:         Your Name                                                  *
-/*  DATE:            December 27, 2021                                          *
+/*  AUTHORS:         Yasser Hawass                                              *
+/*  DATE:            December 28, 2021                                          *
 /*  VER:             1.0                                                        *
 /*  DESCRIPTION:    This program that generates an init func for DDRA register  *
 /*                  in atmega32 MC, system will ask user to enter the mode for  *
@@ -9,8 +9,8 @@
 /*******************************************************************************
 '''
 
-File = open("init.c","w+")
-File.write("void Init_PORTA_DIR (void)\n{\n")
+File = open("file.c","w+")
+File.write("void main (void)\n{\n")
 i = 1
 DDRA = ''
 while i <= 8:
