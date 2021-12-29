@@ -8,3 +8,10 @@ https://note.nkmk.me/en/python-break-nested-loops/
 
 
 https://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit#:~:text=The%20XOR%20operator%20(%20%5E%20)%20can,n%20th%20bit%20of%20number%20.
+
+
+https://stackoverflow.com/questions/6282042/assignment-inside-lambda-expression-in-python
+https://stackoverflow.com/questions/47561543/how-to-use-radio-buttons-to-assign-a-value-to-a-variable-in-python
+https://stackoverflow.com/questions/41946222/how-do-i-create-a-popup-window-in-tkinter
+https://stackoverflow.com/questions/47152689/tkinter-multiple-radiobutton-groups
+use tk.StringVar as variables please.
