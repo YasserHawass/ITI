@@ -15,3 +15,8 @@ https://stackoverflow.com/questions/47561543/how-to-use-radio-buttons-to-assign-
 https://stackoverflow.com/questions/41946222/how-do-i-create-a-popup-window-in-tkinter
 https://stackoverflow.com/questions/47152689/tkinter-multiple-radiobutton-groups
 use tk.StringVar as variables please.
+
+
+https://docs.python.org/3/library/tkinter.messagebox.html
+
+remember to not place Entry widget in same line, so that .get() is accessible too
