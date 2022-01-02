@@ -1,0 +1,9 @@
+# xpath sheet
+https://miro.medium.com/max/1170/1*p-8bfD0iA86UAH4pTdjVxg.png
+https://devhints.io/xpath
+
+https://stackoverflow.com/questions/5068951/what-do-lt-and-gt-stand-for
+
+
+# anaconda hassle
+https://stackoverflow.com/questions/50079641/there-is-an-instance-of-anaconda-navigator-already-running-error
