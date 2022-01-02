@@ -1,0 +1,12 @@
+//book/title | //book/author
+//book[year>2003]/title | //book[year>2003]/author
+//book[category='cooking']/title | //book[category='cooking']/author
+
+//book[title[@lang='en']]/title | //book[title[@lang='en']]/author
+//book[title[@lang='en'] and year>2003]/title | //book[title[@lang='en'] and year>2003]/author
+
+//book[title[@lang='en']][last()]/title | //book[title[@lang='en']][last()]/author
+//book[title[@lang='en']][last()-1]/title | //book[title[@lang='en']][last()-1]/author
+
+
+//book/title | //book/author
