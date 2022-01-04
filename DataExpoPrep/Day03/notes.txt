@@ -1,0 +1,15 @@
+Dataset --> Prepare --> randomize order of rows
+
+** maxAchievedAccuracy = 0 **
+
+** count   **
+
+ 80% training
+ 10% validation --> Accuracy %
+
+    Early stopping --> check Accuracy > maxAchievedAccuracy: maxAchievedAccuracy=Accuracy, count=0, save weights
+
+                                                    if no: count ++
+
+                                                            check=5, Early stopping
+10% testing   --> Accuracy % only one time at the end
