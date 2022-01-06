@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendJSON="http://www.talend.org/json" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendJSON:JSONFileConnection xmi:id="_k4CJIWzOEeyCcZtYaNno2g" name="imdb" dataPackage="_k4CJWWzOEeyCcZtYaNno2g" JSONFilePath="C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/IMDB.json" Encoding="UTF-8" readbyMode="JSONPATH">
+    <schema xmi:id="_k4CJImzOEeyCcZtYaNno2g" LimitBoucle="50" AbsoluteXPathQuery="$[*]">
+      <schemaTargets xmi:id="_k4CJI2zOEeyCcZtYaNno2g" RelativeXPathQuery="X" TagName="X"/>
+      <schemaTargets xmi:id="_k4CJJGzOEeyCcZtYaNno2g" RelativeXPathQuery="Title" TagName="Title"/>
+      <schemaTargets xmi:id="_k4CJJWzOEeyCcZtYaNno2g" RelativeXPathQuery="TotalVotes" TagName="TotalVotes"/>
+      <schemaTargets xmi:id="_k4CJJmzOEeyCcZtYaNno2g" RelativeXPathQuery="MetaCritic" TagName="MetaCritic"/>
+      <schemaTargets xmi:id="_k4CJJ2zOEeyCcZtYaNno2g" RelativeXPathQuery="Budget" TagName="Budget"/>
+      <schemaTargets xmi:id="_k4CJKGzOEeyCcZtYaNno2g" RelativeXPathQuery="Runtime" TagName="Runtime"/>
+      <schemaTargets xmi:id="_k4CJKWzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes10" TagName="CVotes10"/>
+      <schemaTargets xmi:id="_k4CJKmzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes09" TagName="CVotes09"/>
+      <schemaTargets xmi:id="_k4CJK2zOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes08" TagName="CVotes08"/>
+      <schemaTargets xmi:id="_k4CJLGzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes07" TagName="CVotes07"/>
+      <schemaTargets xmi:id="_k4CJLWzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes06" TagName="CVotes06"/>
+      <schemaTargets xmi:id="_k4CJLmzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes05" TagName="CVotes05"/>
+      <schemaTargets xmi:id="_k4CJL2zOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes04" TagName="CVotes04"/>
+      <schemaTargets xmi:id="_k4CJMGzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes03" TagName="CVotes03"/>
+      <schemaTargets xmi:id="_k4CJMWzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes02" TagName="CVotes02"/>
+      <schemaTargets xmi:id="_k4CJMmzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes01" TagName="CVotes01"/>
+      <schemaTargets xmi:id="_k4CJM2zOEeyCcZtYaNno2g" RelativeXPathQuery="CVotesMale" TagName="CVotesMale"/>
+      <schemaTargets xmi:id="_k4CJNGzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotesFemale" TagName="CVotesFemale"/>
+      <schemaTargets xmi:id="_k4CJNWzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotesU18" TagName="CVotesU18"/>
+      <schemaTargets xmi:id="_k4CJNmzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotesU18M" TagName="CVotesU18M"/>
+      <schemaTargets xmi:id="_k4CJN2zOEeyCcZtYaNno2g" RelativeXPathQuery="CVotesU18F" TagName="CVotesU18F"/>
+      <schemaTargets xmi:id="_k4CJOGzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes1829" TagName="CVotes1829"/>
+      <schemaTargets xmi:id="_k4CJOWzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes1829M" TagName="CVotes1829M"/>
+      <schemaTargets xmi:id="_k4CJOmzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes1829F" TagName="CVotes1829F"/>
+      <schemaTargets xmi:id="_k4CJO2zOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes3044" TagName="CVotes3044"/>
+      <schemaTargets xmi:id="_k4CJPGzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes3044M" TagName="CVotes3044M"/>
+      <schemaTargets xmi:id="_k4CJPWzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes3044F" TagName="CVotes3044F"/>
+      <schemaTargets xmi:id="_k4CJPmzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes45A" TagName="CVotes45A"/>
+      <schemaTargets xmi:id="_k4CJP2zOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes45AM" TagName="CVotes45AM"/>
+      <schemaTargets xmi:id="_k4CJQGzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes45AF" TagName="CVotes45AF"/>
+      <schemaTargets xmi:id="_k4CJQWzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotes1000" TagName="CVotes1000"/>
+      <schemaTargets xmi:id="_k4CJQmzOEeyCcZtYaNno2g" RelativeXPathQuery="CVotesUS" TagName="CVotesUS"/>
+      <schemaTargets xmi:id="_k4CJQ2zOEeyCcZtYaNno2g" RelativeXPathQuery="CVotesnUS" TagName="CVotesnUS"/>
+      <schemaTargets xmi:id="_k4CJRGzOEeyCcZtYaNno2g" RelativeXPathQuery="VotesM" TagName="VotesM"/>
+      <schemaTargets xmi:id="_k4CJRWzOEeyCcZtYaNno2g" RelativeXPathQuery="VotesF" TagName="VotesF"/>
+      <schemaTargets xmi:id="_k4CJRmzOEeyCcZtYaNno2g" RelativeXPathQuery="VotesU18" TagName="VotesU18"/>
+      <schemaTargets xmi:id="_k4CJR2zOEeyCcZtYaNno2g" RelativeXPathQuery="VotesU18M" TagName="VotesU18M"/>
+      <schemaTargets xmi:id="_k4CJSGzOEeyCcZtYaNno2g" RelativeXPathQuery="VotesU18F" TagName="VotesU18F"/>
+      <schemaTargets xmi:id="_k4CJSWzOEeyCcZtYaNno2g" RelativeXPathQuery="Votes1829" TagName="Votes1829"/>
+      <schemaTargets xmi:id="_k4CJSmzOEeyCcZtYaNno2g" RelativeXPathQuery="Votes1829M" TagName="Votes1829M"/>
+      <schemaTargets xmi:id="_k4CJS2zOEeyCcZtYaNno2g" RelativeXPathQuery="Votes1829F" TagName="Votes1829F"/>
+      <schemaTargets xmi:id="_k4CJTGzOEeyCcZtYaNno2g" RelativeXPathQuery="Votes3044" TagName="Votes3044"/>
+      <schemaTargets xmi:id="_k4CJTWzOEeyCcZtYaNno2g" RelativeXPathQuery="Votes3044M" TagName="Votes3044M"/>
+      <schemaTargets xmi:id="_k4CJTmzOEeyCcZtYaNno2g" RelativeXPathQuery="Votes3044F" TagName="Votes3044F"/>
+      <schemaTargets xmi:id="_k4CJT2zOEeyCcZtYaNno2g" RelativeXPathQuery="Votes45A" TagName="Votes45A"/>
+      <schemaTargets xmi:id="_k4CJUGzOEeyCcZtYaNno2g" RelativeXPathQuery="Votes45AM" TagName="Votes45AM"/>
+      <schemaTargets xmi:id="_k4CJUWzOEeyCcZtYaNno2g" RelativeXPathQuery="Votes45AF" TagName="Votes45AF"/>
+      <schemaTargets xmi:id="_k4CJUmzOEeyCcZtYaNno2g" RelativeXPathQuery="VotesIMDB" TagName="VotesIMDB"/>
+      <schemaTargets xmi:id="_k4CJU2zOEeyCcZtYaNno2g" RelativeXPathQuery="Votes1000" TagName="Votes1000"/>
+      <schemaTargets xmi:id="_k4CJVGzOEeyCcZtYaNno2g" RelativeXPathQuery="VotesUS" TagName="VotesUS"/>
+      <schemaTargets xmi:id="_k4CJVWzOEeyCcZtYaNno2g" RelativeXPathQuery="VotesnUS" TagName="VotesnUS"/>
+      <schemaTargets xmi:id="_k4CJVmzOEeyCcZtYaNno2g" RelativeXPathQuery="Domestic" TagName="Domestic"/>
+      <schemaTargets xmi:id="_k4CJV2zOEeyCcZtYaNno2g" RelativeXPathQuery="Foreign" TagName="Foreign"/>
+      <schemaTargets xmi:id="_k4CJWGzOEeyCcZtYaNno2g" RelativeXPathQuery="Worldwide" TagName="Worldwide"/>
+    </schema>
+  </TalendJSON:JSONFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_k4CJWWzOEeyCcZtYaNno2g" name="default" dataManager="_k4CJIWzOEeyCcZtYaNno2g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_k4CJWmzOEeyCcZtYaNno2g" id="_RPYukGzOEeyCcZtYaNno2g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJW2zOEeyCcZtYaNno2g" label="X" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJXGzOEeyCcZtYaNno2g" label="Title" length="54" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJXWzOEeyCcZtYaNno2g" label="TotalVotes" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJXmzOEeyCcZtYaNno2g" label="MetaCritic" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJX2zOEeyCcZtYaNno2g" label="Budget" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJYGzOEeyCcZtYaNno2g" label="Runtime" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJYWzOEeyCcZtYaNno2g" label="CVotes10" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJYmzOEeyCcZtYaNno2g" label="CVotes09" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJY2zOEeyCcZtYaNno2g" label="CVotes08" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJZGzOEeyCcZtYaNno2g" label="CVotes07" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJZWzOEeyCcZtYaNno2g" label="CVotes06" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJZmzOEeyCcZtYaNno2g" label="CVotes05" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJZ2zOEeyCcZtYaNno2g" label="CVotes04" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJaGzOEeyCcZtYaNno2g" label="CVotes03" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJaWzOEeyCcZtYaNno2g" label="CVotes02" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJamzOEeyCcZtYaNno2g" label="CVotes01" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJa2zOEeyCcZtYaNno2g" label="CVotesMale" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJbGzOEeyCcZtYaNno2g" label="CVotesFemale" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJbWzOEeyCcZtYaNno2g" label="CVotesU18" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJbmzOEeyCcZtYaNno2g" label="CVotesU18M" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJb2zOEeyCcZtYaNno2g" label="CVotesU18F" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJcGzOEeyCcZtYaNno2g" label="CVotes1829" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJcWzOEeyCcZtYaNno2g" label="CVotes1829M" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJcmzOEeyCcZtYaNno2g" label="CVotes1829F" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJc2zOEeyCcZtYaNno2g" label="CVotes3044" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJdGzOEeyCcZtYaNno2g" label="CVotes3044M" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJdWzOEeyCcZtYaNno2g" label="CVotes3044F" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJdmzOEeyCcZtYaNno2g" label="CVotes45A" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJd2zOEeyCcZtYaNno2g" label="CVotes45AM" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJeGzOEeyCcZtYaNno2g" label="CVotes45AF" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJeWzOEeyCcZtYaNno2g" label="CVotes1000" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJemzOEeyCcZtYaNno2g" label="CVotesUS" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJe2zOEeyCcZtYaNno2g" label="CVotesnUS" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJfGzOEeyCcZtYaNno2g" label="VotesM" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJfWzOEeyCcZtYaNno2g" label="VotesF" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJfmzOEeyCcZtYaNno2g" label="VotesU18" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJf2zOEeyCcZtYaNno2g" label="VotesU18M" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJgGzOEeyCcZtYaNno2g" label="VotesU18F" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJgWzOEeyCcZtYaNno2g" label="Votes1829" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJgmzOEeyCcZtYaNno2g" label="Votes1829M" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJg2zOEeyCcZtYaNno2g" label="Votes1829F" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJhGzOEeyCcZtYaNno2g" label="Votes3044" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJhWzOEeyCcZtYaNno2g" label="Votes3044M" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJhmzOEeyCcZtYaNno2g" label="Votes3044F" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJh2zOEeyCcZtYaNno2g" label="Votes45A" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJiGzOEeyCcZtYaNno2g" label="Votes45AM" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJiWzOEeyCcZtYaNno2g" label="Votes45AF" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJimzOEeyCcZtYaNno2g" label="VotesIMDB" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJi2zOEeyCcZtYaNno2g" label="Votes1000" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJjGzOEeyCcZtYaNno2g" label="VotesUS" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJjWzOEeyCcZtYaNno2g" label="VotesnUS" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJjmzOEeyCcZtYaNno2g" label="Domestic" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJj2zOEeyCcZtYaNno2g" label="Foreign" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k4CJkGzOEeyCcZtYaNno2g" label="Worldwide" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
