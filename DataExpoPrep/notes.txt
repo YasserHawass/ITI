@@ -22,3 +22,17 @@ https://www.udacity.com/course/deep-learning-pytorch--ud188
 # Selenium & hidden items.text
 an odd behavior comes whenever try to .text an element hidden by code, or it's just not 
 visible through windows (in case it's low res) xD
+
+
+# SOME TRICK with Talend
+the language might be arabic so  the numbers for excel files would render as arabic, and the rest
+as english, and will then be Strings rather than integers
+
+you could use a json reply as a file schema to your json extract so it can extract jsonpath
+for you, instead of typing it yourself
+
+check the columns types PLEASE
+
+
+
+# XPATH index starts with 1, JSON starts with 0
