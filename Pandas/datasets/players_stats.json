@@ -1,0 +1,233 @@
+[
+ {
+   "Name": "Michael Owen",
+   "Height_cm": 173,
+   "Appearances": 326,
+   "Wins": 142,
+   "Losses": 95,
+   "Goals_per_match": 0.46,
+   "Assists": 31,
+   "Yellow_cards": 10,
+   "Red_cards": 1
+ },
+ {
+   "Name": "Jermain Defoe",
+   "Height_cm": 171,
+   "Appearances": 496,
+   "Wins": 185,
+   "Losses": 188,
+   "Goals_per_match": 0.33,
+   "Assists": 33,
+   "Yellow_cards": 40,
+   "Red_cards": 2
+ },
+ {
+   "Name": "Harry Kane",
+   "Height_cm": 188,
+   "Appearances": 245,
+   "Wins": 136,
+   "Losses": 57,
+   "Goals_per_match": 0.68,
+   "Assists": 34,
+   "Yellow_cards": 27,
+   "Red_cards": 0
+ },
+ {
+   "Name": "Mohamed Salah",
+   "Height_cm": 175,
+   "Appearances": 158,
+   "Wins": 107,
+   "Losses": 21,
+   "Goals_per_match": 0.61,
+   "Assists": 34,
+   "Yellow_cards": 4,
+   "Red_cards": 0
+ },
+ {
+   "Name": "Romelu Lukaku",
+   "Height_cm": 190,
+   "Appearances": 252,
+   "Wins": 112,
+   "Losses": 80,
+   "Goals_per_match": 0.45,
+   "Assists": 35,
+   "Yellow_cards": 19,
+   "Red_cards": 0
+ },
+ {
+   "Name": "Robbie Keane",
+   "Height_cm": 176,
+   "Appearances": 349,
+   "Wins": 139,
+   "Losses": 122,
+   "Goals_per_match": 0.36,
+   "Assists": 37,
+   "Yellow_cards": 17,
+   "Red_cards": 2
+ },
+ {
+   "Name": "Jamie Vardy",
+   "Height_cm": 179,
+   "Appearances": 245,
+   "Wins": 103,
+   "Losses": 87,
+   "Goals_per_match": 0.48,
+   "Assists": 38,
+   "Yellow_cards": 21,
+   "Red_cards": 3
+ },
+ {
+   "Name": "Robbie Fowler",
+   "Height_cm": 173,
+   "Appearances": 379,
+   "Wins": 164,
+   "Losses": 111,
+   "Goals_per_match": 0.43,
+   "Assists": 39,
+   "Yellow_cards": 27,
+   "Red_cards": 2
+ },
+ {
+   "Name": "Sergio Agüero",
+   "Height_cm": 173,
+   "Appearances": 275,
+   "Wins": 186,
+   "Losses": 45,
+   "Goals_per_match": 0.67,
+   "Assists": 47,
+   "Yellow_cards": 23,
+   "Red_cards": 1
+ },
+ {
+   "Name": "Nicolas Anelka",
+   "Height_cm": 185,
+   "Appearances": 364,
+   "Wins": 182,
+   "Losses": 95,
+   "Goals_per_match": 0.34,
+   "Assists": 48,
+   "Yellow_cards": 5,
+   "Red_cards": 1
+ },
+ {
+   "Name": "Les Ferdinand",
+   "Height_cm": 180,
+   "Appearances": 351,
+   "Wins": 138,
+   "Losses": 119,
+   "Goals_per_match": 0.42,
+   "Assists": 49,
+   "Yellow_cards": 43,
+   "Red_cards": 3
+ },
+ {
+   "Name": "Dwight Yorke",
+   "Height_cm": 178,
+   "Appearances": 375,
+   "Wins": 169,
+   "Losses": 116,
+   "Goals_per_match": 0.33,
+   "Assists": 50,
+   "Yellow_cards": 24,
+   "Red_cards": 1
+ },
+ {
+   "Name": "Robin van Persie",
+   "Height_cm": 183,
+   "Appearances": 280,
+   "Wins": 153,
+   "Losses": 59,
+   "Goals_per_match": 0.51,
+   "Assists": 53,
+   "Yellow_cards": 47,
+   "Red_cards": 2
+ },
+ {
+   "Name": "Jimmy Floyd Hasselbaink",
+   "Height_cm": 183,
+   "Appearances": 288,
+   "Wins": 124,
+   "Losses": 83,
+   "Goals_per_match": 0.44,
+   "Assists": 58,
+   "Yellow_cards": 44,
+   "Red_cards": 2
+ },
+ {
+   "Name": "Alan Shearer",
+   "Height_cm": 183,
+   "Appearances": 441,
+   "Wins": 203,
+   "Losses": 129,
+   "Goals_per_match": 0.59,
+   "Assists": 64,
+   "Yellow_cards": 41,
+   "Red_cards": 2
+ },
+ {
+   "Name": "Andrew Cole",
+   "Height_cm": 178,
+   "Appearances": 414,
+   "Wins": 206,
+   "Losses": 106,
+   "Goals_per_match": 0.45,
+   "Assists": 73,
+   "Yellow_cards": 40,
+   "Red_cards": 6
+ },
+ {
+   "Name": "Thierry Henry",
+   "Height_cm": 188,
+   "Appearances": 258,
+   "Wins": 157,
+   "Losses": 39,
+   "Goals_per_match": 0.68,
+   "Assists": 74,
+   "Yellow_cards": 30,
+   "Red_cards": 0
+ },
+ {
+   "Name": "Teddy Sheringham",
+   "Height_cm": 183,
+   "Appearances": 418,
+   "Wins": 184,
+   "Losses": 133,
+   "Goals_per_match": 0.35,
+   "Assists": 76,
+   "Yellow_cards": 42,
+   "Red_cards": 1
+ },
+ {
+   "Name": "Steven Gerrard",
+   "Height_cm": 185,
+   "Appearances": 504,
+   "Wins": 255,
+   "Losses": 119,
+   "Goals_per_match": 0.24,
+   "Assists": 92,
+   "Yellow_cards": 61,
+   "Red_cards": 6
+ },
+ {
+   "Name": "Frank Lampard",
+   "Height_cm": 184,
+   "Appearances": 609,
+   "Wins": 349,
+   "Losses": 127,
+   "Goals_per_match": 0.29,
+   "Assists": 102,
+   "Yellow_cards": 59,
+   "Red_cards": 2
+ },
+ {
+   "Name": "Wayne Rooney",
+   "Height_cm": 176,
+   "Appearances": 491,
+   "Wins": 284,
+   "Losses": 103,
+   "Goals_per_match": 0.42,
+   "Assists": 103,
+   "Yellow_cards": 102,
+   "Red_cards": 3
+ }
+]
